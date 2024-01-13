@@ -37,8 +37,8 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/premium-calculator-api.git
-   cd premium-calculator-api
+   git clone https://github.com/jayasuryashaju/premium_calculator_api.git
+   cd premium_calculator_api
 
 2. Install dependencies:
 
